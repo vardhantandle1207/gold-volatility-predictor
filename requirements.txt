@@ -1,0 +1,10 @@
+yfinance>=1.8
+pandas>=3.0
+numpy>=2.0
+scikit-learn>=1.9
+lightgbm>=4.7
+shap>=0.54
+streamlit>=1.67
+plotly>=7.0
+matplotlib>=3.10
+tabulate>=0.10
